@@ -7,10 +7,11 @@ There is only one diference betweeen the original version and this one. I tried 
 
 To use, you can just execute the binary file
 
-   sudo ./usbpush <file>
+    sudo ./usbpush <file>
 
-or if you need/want just run 
-   make
+or if you need/want just run
+
+    make
 
 to build it.
 WARNING: It's necessary have the libusb-dev package to build it!!

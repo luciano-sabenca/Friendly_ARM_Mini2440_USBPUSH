@@ -29,6 +29,10 @@
  * push move the small switch on the KERNEL board from NAND to NOR before powering
  * up the device.
  */
+ 
+ //ADDED
+ 
+ 
 //ravikumar
 #include <stdio.h>
 #include <string.h>
